@@ -9,5 +9,8 @@ package dev.ej.ndaysofjava.day0;
  * @author JohnPC
  */
 public class Day0 {
+    public static void main(String[] args) {
+        System.out.println("Starting nDaysOfJava");
+    }
     
 }
